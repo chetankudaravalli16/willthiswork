@@ -9,8 +9,8 @@
    - Read the plans
 ## Conclusions
 
-![Earth](https://www.google.com/earth)
-[BBC](https://bbc.co.uk)
+![Earth](https://upload.wikimedia.org/wikipedia/commons/d/db/Nasa_blue_marble.jpg)
+[BBC](https://www.bbc.com/)
 
 ``` func add(x:Int, y:Int) -> Int 
        { return x + y }
